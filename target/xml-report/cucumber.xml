@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="27.537">
+    <testcase classname="Api Demos wifi test" name="wifi yazdirma" time="27.062">
+        <system-out>
+            <![CDATA[Given Preference butonuna tikla.............................................passed
+And prefence deopendenciese tikla...........................................passed
+And wifi check box a tikla..................................................passed
+And wifi setting e tikla....................................................passed
+And acilan text box a "Appium Sevenler Dernegi" metnini yaz.................passed
+Then Ok butonuna tikla......................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
